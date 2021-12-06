@@ -1,0 +1,21 @@
+.content{
+    text-align: center;
+
+}
+form {
+    /*display: flex;*/
+    /*flex-direction: column;*/
+
+
+}
+input[type='text']{
+    width: 200px;
+}
+button {
+    margin-top: 40px;
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    width: 200px;
+}
